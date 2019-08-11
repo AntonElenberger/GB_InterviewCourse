@@ -1,0 +1,7 @@
+# Default ignored files
+/workspace.xml
+/.idea/
+/dz1/target/*.class
+/dz1/*.iml
+*.iml
+/dz1/target
