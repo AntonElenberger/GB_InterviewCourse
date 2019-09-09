@@ -1,0 +1,5 @@
+class: Sorcerer
+name: Jules
+level: 1
+hp: 5
+maxHp: 50
